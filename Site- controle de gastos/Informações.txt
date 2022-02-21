@@ -1,0 +1,4 @@
+O seguinte projeto foi realizado durante as aulas remotas disponibilizadas pela Kenzie Academy em parceria com a DuplaTech.
+A idéia das aulas, era  incentivar e introduzir mulheres no mundo da programação, através de aulas iniciais básicas de HTML,CSS e JavaScript.
+Durante os quatro dias de curso, foi ensinado como desenvolver do zero um site de controle de gastos.
+
